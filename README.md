@@ -39,9 +39,8 @@ while True:
 ```
 ## OUTPUT
 CLIENT:
-
-
+![S1](https://github.com/mades2112/2a_Stop_and_Wait_Protocol/assets/152461996/d541820f-f774-4d6d-8de7-290d3e459400)
 SERVER:
-
+![S2](https://github.com/mades2112/2a_Stop_and_Wait_Protocol/assets/152461996/f7cf8565-f08c-4f61-a279-a5bd20692fe0)
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
